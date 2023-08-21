@@ -6,41 +6,32 @@ I'm a final year MCA student with a passion for development and a constant thirs
 
 Feel free to check the programming languages and technologies you are familiar with:
 
-- [x] Java
-- [x] JavaScript
-- [x] Python
-- [x] C++
-- [x] Ruby
-- [x] PHP
-- [x] Swift
-- [x] Go
-- [x] TypeScript
-- [x] Kotlin
-- [x] Rust
-- [x] HTML
-- [x] CSS
-- [x] Sass
-- [x] Less
-- [x] Bootstrap
-- [x] React
-- [x] Angular
-- [x] Vue.js
-- [x] Node.js
-- [x] Express.js
-- [x] Ruby on Rails
-- [x] Django
-- [x] Flask
-- [x] Spring Framework
-- [x] Hibernate
-- [x] SQL
-- [x] NoSQL (e.g., MongoDB)
-- [x] RESTful APIs
-- [x] GraphQL
-- [x] Git
-- [x] Data Structures and Algorithms (DSA)
-- [x] Object-Oriented Programming (OOP)
-- [x] Test-Driven Development (TDD)
-- [x] Agile/Scrum
+<table>
+  <tr>
+    <td>
+      <img src="https://example.com/java-logo.png" alt="Java" width="50px">
+    </td>
+    <td>
+      <img src="https://example.com/javascript-logo.png" alt="JavaScript" width="50px">
+    </td>
+    <td>
+      <img src="https://example.com/python-logo.png" alt="Python" width="50px">
+    </td>
+    <!-- Add more programming languages and logos here -->
+  </tr>
+  <tr>
+    <td>
+      <input type="checkbox" checked> Java
+    </td>
+    <td>
+      <input type="checkbox" checked> JavaScript
+    </td>
+    <td>
+      <input type="checkbox" checked> Python
+    </td>
+    <!-- Add more checkboxes and programming languages here -->
+  </tr>
+</table>
 
 ## 🚀 Current Endeavors
 
