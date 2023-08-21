@@ -1,15 +1,46 @@
 # Hi there, I'm Likith! 👋
 
-I'm a final year MCA student with a passion for development and a constant thirst for learning. I enjoy working with various technologies and expanding my skillset. Below, you'll find some of the technologies I'm familiar with:
+I'm a final year MCA student with a passion for development and a constant thirst for learning. I enjoy working with various technologies and expanding my skillset.
 
-- Java 8
-- JavaScript
-- CSS
-- Bootstrap
-- Spring Framework
-- Hibernate
-- SQL
-- Data Structures and Algorithms (DSA)
+## Programming Skills
+
+Feel free to check the programming languages and technologies you are familiar with:
+
+- [x] Java
+- [x] JavaScript
+- [x] Python
+- [x] C++
+- [x] Ruby
+- [x] PHP
+- [x] Swift
+- [x] Go
+- [x] TypeScript
+- [x] Kotlin
+- [x] Rust
+- [x] HTML
+- [x] CSS
+- [x] Sass
+- [x] Less
+- [x] Bootstrap
+- [x] React
+- [x] Angular
+- [x] Vue.js
+- [x] Node.js
+- [x] Express.js
+- [x] Ruby on Rails
+- [x] Django
+- [x] Flask
+- [x] Spring Framework
+- [x] Hibernate
+- [x] SQL
+- [x] NoSQL (e.g., MongoDB)
+- [x] RESTful APIs
+- [x] GraphQL
+- [x] Git
+- [x] Data Structures and Algorithms (DSA)
+- [x] Object-Oriented Programming (OOP)
+- [x] Test-Driven Development (TDD)
+- [x] Agile/Scrum
 
 ## 🚀 Current Endeavors
 
