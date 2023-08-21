@@ -21,4 +21,4 @@ I'm actively seeking job opportunities and continuously exploring new technologi
 
 If you have any job opportunities, projects, or just want to connect, feel free to reach out to me via email: [shivulikith0023@gmail.com](mailto:shivulikith0023@gmail.com).
 
-Let's collaborate and make something awesome together! 😄
+Let's collaborate and make something awesome together! 😄  
